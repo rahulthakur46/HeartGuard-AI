@@ -8,7 +8,7 @@
 
 > A clinical-grade, interactive heart disease risk prediction web application built with Machine Learning and deployed on Streamlit Cloud.
 
-**🔗 Live Demo:** [Click Here to Open App](https://your-app-link.streamlit.app)  
+**🔗 Live Demo:** [Click Here to Open App](https://https://heartguard-ai-kheymqbhy9tij3rby58rdc.streamlit.app/)  
 **👤 Author:** Rahul Thakur  
 **📅 Year:** 2026
 
@@ -170,9 +170,13 @@ Random State  : 42
 
 ## 🖥️ App Screenshots
 
-> *(Add screenshots here after deployment)*
->
-> Tip: Press `F12` in browser → Screenshot, or use Windows `Win + Shift + S`
+> *(Add s<img width="1920" height="1080" alt="Screenshot 2026-06-06 213326" src="https://github.com/user-attachments/assets/2c7c402b-7629-468f-a9ba-09b743378be3" />
+creens<img width="1920" height="1080" alt="Screenshot 2026-06-06 205449" src="https://github.com/user-attachments/assets/0af6ec2f-d034-4fb4-abe6-e7eed9da30c8" />
+hots here after deployment)*
+><img width="1920" height="1080" alt="Screenshot 2026-06-06 213406" src="https://github.com/user-attachments/assets/37d68be5-ac77-47f3-ae78-dc4b5b137762" />
+
+> Tip:<img width="1920" height="1080" alt="Screenshot 2026-06-06 213437" src="https://github.com/user-attachments/assets/bc2534ac-7d26-429e-a080-1ba2fa62d3e3" />
+ Press `F12` in browser → Screenshot, or use Windows `Win + Shift + S`
 
 ---
 
