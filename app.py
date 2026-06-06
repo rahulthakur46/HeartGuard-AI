@@ -664,6 +664,7 @@ with tab_vis:
     with v1:
         # Donut breakdown
         cnts = df_vis['Diagnosis'].value_counts().reset_index()
+        cnts.columns = ['Diagnosis', 'count']
         fig_pie = px.pie(cnts, values='count', names='Diagnosis', hole=.55,
                          color='Diagnosis', color_discrete_map=CMAP,
                          template='plotly_dark', title='Healthy vs Heart Disease')
